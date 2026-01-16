@@ -21,6 +21,9 @@ on:
 env:
   SITE_URL: "https://sujeet.pro"
 
+permissions:
+  contents: write
+
 jobs:
   audit:
     name: Run Unlighthouse Audit
@@ -184,7 +187,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A
+          git add "${{ steps.folder.outputs.name }}" reports.json index.html .nojekyll
           git commit -m "Add report: ${{ steps.folder.outputs.name }}" || echo "No changes"
           git push
 
