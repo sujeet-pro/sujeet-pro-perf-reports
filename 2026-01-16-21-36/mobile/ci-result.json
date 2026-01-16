@@ -1,0 +1,474 @@
+[
+  {
+    "path": "/",
+    "score": 0.96,
+    "performance": 0.94,
+    "accessibility": 0.91,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/articles",
+    "score": 0.96,
+    "performance": 0.96,
+    "accessibility": 0.88,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/browse",
+    "score": 0.97,
+    "performance": 0.97,
+    "accessibility": 0.89,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/cv",
+    "score": 0.98,
+    "performance": 1,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/deep-dives",
+    "score": 0.97,
+    "performance": 0.97,
+    "accessibility": 0.9,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/deep-dives/dsa",
+    "score": 0.98,
+    "performance": 1,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/deep-dives/leadership",
+    "score": 0.97,
+    "performance": 0.97,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/deep-dives/system-design-fundamentals",
+    "score": 0.96,
+    "performance": 0.96,
+    "accessibility": 0.88,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/deep-dives/system-design-fundamentals/caching",
+    "score": 0.97,
+    "performance": 0.97,
+    "accessibility": 0.91,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/deep-dives/system-design-fundamentals/caching-lru",
+    "score": 0.98,
+    "performance": 0.99,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/deep-dives/tools",
+    "score": 0.97,
+    "performance": 1,
+    "accessibility": 0.88,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/deep-dives/tools/k6",
+    "score": 0.98,
+    "performance": 0.99,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/deep-dives/tools/libuv",
+    "score": 0.97,
+    "performance": 0.95,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/deep-dives/tools/node-js",
+    "score": 0.98,
+    "performance": 0.99,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/deep-dives/tools/react-architecture",
+    "score": 0.98,
+    "performance": 1,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/deep-dives/tools/react-hooks",
+    "score": 0.98,
+    "performance": 0.99,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/deep-dives/tools/statsig",
+    "score": 0.97,
+    "performance": 0.98,
+    "accessibility": 0.88,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/deep-dives/tools/v8",
+    "score": 0.98,
+    "performance": 0.99,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/deep-dives/web-fundamentals",
+    "score": 0.97,
+    "performance": 1,
+    "accessibility": 0.88,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/deep-dives/web-fundamentals/accessibility",
+    "score": 0.98,
+    "performance": 0.99,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/deep-dives/web-fundamentals/auth",
+    "score": 0.98,
+    "performance": 0.99,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/deep-dives/web-fundamentals/micro-frontends",
+    "score": 0.98,
+    "performance": 0.99,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/deep-dives/web-fundamentals/security",
+    "score": 0.98,
+    "performance": 0.99,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/deep-dives/web-fundamentals/wpo-font",
+    "score": 0.97,
+    "performance": 0.94,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/deep-dives/web-fundamentals/wpo-js",
+    "score": 0.98,
+    "performance": 0.99,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/deep-dives/web-fundamentals/wpo-overview",
+    "score": 0.97,
+    "performance": 0.99,
+    "accessibility": 0.88,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/deep-dives/web-fundamentals/wpo-patterns",
+    "score": 0.98,
+    "performance": 0.99,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/search",
+    "score": 0.99,
+    "performance": 1,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/tag",
+    "score": 0.98,
+    "performance": 0.97,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/tag/authentication",
+    "score": 0.97,
+    "performance": 1,
+    "accessibility": 0.88,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/tag/executive-sponsorship",
+    "score": 0.97,
+    "performance": 1,
+    "accessibility": 0.88,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/tag/fonts",
+    "score": 0.96,
+    "performance": 0.97,
+    "accessibility": 0.88,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/tag/frontend",
+    "score": 0.96,
+    "performance": 0.97,
+    "accessibility": 0.88,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/tag/images",
+    "score": 0.96,
+    "performance": 0.97,
+    "accessibility": 0.88,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/tag/networking",
+    "score": 0.97,
+    "performance": 1,
+    "accessibility": 0.88,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/tag/spike-testing",
+    "score": 0.97,
+    "performance": 1,
+    "accessibility": 0.88,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/tag/sre",
+    "score": 0.97,
+    "performance": 1,
+    "accessibility": 0.88,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/uses",
+    "score": 0.98,
+    "performance": 1,
+    "accessibility": 0.9,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/uses/productivity",
+    "score": 0.97,
+    "performance": 1,
+    "accessibility": 0.88,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/uses/productivity/chrome-setup",
+    "score": 0.98,
+    "performance": 0.96,
+    "accessibility": 0.94,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/uses/tools",
+    "score": 0.98,
+    "performance": 1,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/work",
+    "score": 0.97,
+    "performance": 0.97,
+    "accessibility": 0.9,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/work/adoptions",
+    "score": 0.97,
+    "performance": 1,
+    "accessibility": 0.88,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/work/adoptions/design-system-adoption-guide",
+    "score": 0.97,
+    "performance": 0.99,
+    "accessibility": 0.92,
+    "best-practices": 0.96,
+    "seo": 1
+  },
+  {
+    "path": "/work/adoptions/ssg-to-ssr",
+    "score": 0.98,
+    "performance": 1,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/work/design-docs",
+    "score": 0.96,
+    "performance": 0.97,
+    "accessibility": 0.88,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/work/design-docs/component-architecture",
+    "score": 0.97,
+    "performance": 0.99,
+    "accessibility": 0.88,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/work/design-docs/csp-sentinel",
+    "score": 0.97,
+    "performance": 1,
+    "accessibility": 0.92,
+    "best-practices": 0.96,
+    "seo": 1
+  },
+  {
+    "path": "/work/platform-engineering",
+    "score": 0.97,
+    "performance": 1,
+    "accessibility": 0.88,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/work/platform-engineering/image-service",
+    "score": 0.98,
+    "performance": 0.98,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/work/platform-engineering/ssg-optimizations",
+    "score": 0.98,
+    "performance": 0.99,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/work/platform-engineering/video-playback",
+    "score": 0.98,
+    "performance": 1,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/writing",
+    "score": 0.97,
+    "performance": 0.97,
+    "accessibility": 0.9,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/writing/programming",
+    "score": 0.96,
+    "performance": 0.97,
+    "accessibility": 0.88,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/writing/programming/async-queue",
+    "score": 0.98,
+    "performance": 0.99,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/writing/programming/error-handling",
+    "score": 0.92,
+    "performance": 0.76,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/writing/programming/exponential-backoff",
+    "score": 0.98,
+    "performance": 1,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/writing/programming/js-str-len",
+    "score": 0.91,
+    "performance": 0.73,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/writing/programming/pub-sub",
+    "score": 0.98,
+    "performance": 1,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 1
+  }
+]
